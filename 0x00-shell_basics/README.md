@@ -1,1 +1,1 @@
-Create a script that creates the directories welcome
+Write a script that lists all files
